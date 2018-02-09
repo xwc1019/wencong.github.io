@@ -1,9 +1,9 @@
 # wencong.github.io
 Big Data and Visualization
-#Is this work?
+# Is this work?
 ## I Hope So
 ### If this doesn't work, I'm gonna to kill my self
-~~ I'm gonna to kill myself tomorrow~~
+~~ I'm gonna to kill myself tomorrow ~~
 ** Because I really don't want to do that **
 My parent's will say:
 > We are happy to have you.
