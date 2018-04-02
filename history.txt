@@ -1,0 +1,96 @@
+    1  git -- version
+    2  git --version
+    3  c/Users/xwc1019/Desktop/github
+    4  mkdir c/Users/xwc1019/Desktop/github
+    5  newpath = r'C:\Desktop\github
+    6  mkdir ~/Desktop/github
+    7  mkdir ~/Desktop/github 
+    8  cd ~/Desktop/github
+    9  pwd
+   10  git clone https://github.com/xwc1019/xwc1019.github.io.git
+   11  def write():
+   12  print('github')
+   13  path = c/Desktop
+   14  git --version
+   15  mkdir c/Desktop/github
+   16  c/Users/xwc1019/github
+   17  create c/Users/xwc1019/Desktop/github
+   18  import os
+   19  mkdir c/users/xwc1019/Desktop/github
+   20  mkdir c/Users/xwc1019/Desktop/github
+   21  mkdir C:/Users/xwc1019/Desktop/github
+   22  mkdir C:/Users/xwc1019/Desktop/Github
+   23  mkdir C:/Users/xwc1019/Desktop/github
+   24  cd ~/Desktop/github
+   25  pwd
+   26  git clone https://github.com/xwc1019/wencong.github.io.git
+   27  ls -lfh
+   28  cd wencong.github.io
+   29  atom./
+   30  cd ~/Desktop/github/wencong.github.io
+   31  ls -lfh
+   32  atom./
+   33  stom
+   34  git clone https://github.com/xwc1019/wencong.github.io.git
+   35  atom-h
+   36  atom -h
+   37  atom./
+   38  atom./
+   39  atom./
+   40  Atom./
+   41  atom。/
+   42  atom
+   43  git clone https://github.com/xwc1019/wencong.github.io.git
+   44  cd ~/Desktop/github/wencong.github.io
+   45  ls -lfh
+   46  atom
+   47  atom./
+   48  cd ~/Desktop/github/wencong.github.io
+   49  atom./
+   50  atom
+   51  atom.cmd
+   52  ls -lfh
+   53  ls -lfh
+   54  cd ~/github/wencong.github.oi
+   55  cd ~/Desktop/github/wencong.github.io
+   56  atom./
+   57  atom
+   58  atom cmd
+   59  git status
+   60  mkdir ~/Desktop/github
+   61  pwd
+   62  cd ~/Desktop/github
+   63  git clone http://github.com/xwc1019/wencong.github.io.git
+   64  cd ~/Desktop/github/wencong.github.io
+   65  atom./
+   66  atom
+   67  atom
+   68  cd wencong.github.io
+   69  cd xwc1019.github.io
+   70  ls -lfh
+   71  atom.cmd./
+   72  atom.cmd
+   73  atom./
+   74  atom ~/Desktop/github/wencong.github.io
+   75  git clone https://github.com/xwc1019/wencong.github.io.git
+   76  cd ~/Desktop/github
+   77  git clone https:/github.com/xwc1019/wencong.github.io.git
+   78  git clone https://github.com/xwc1019/wencong.github.io.git
+   79  cd ~/Desktop/github/wencong.github.io
+   80  atom ~/Desktop/github/wencong.github.io
+   81  git status
+   82  git status
+   83  atom./
+   84  atom
+   85  atom ./
+   86  pwd
+   87  git status
+   88  printenv
+   89  history
+   90  git clone https://github.com/xwc1019/wencong.github.io.git
+   91  history | grep git
+   92  history | grep ls
+   93  history | grep cd
+   94  history | > history.txt
+   95  ls
+   96  history  > history.txt

@@ -1,0 +1,9 @@
+   27  ls -lfh
+   31  ls -lfh
+   45  ls -lfh
+   52  ls -lfh
+   53  ls -lfh
+   70  ls -lfh
+   92  history | grep ls
+   95  ls
+   97  history | grep ls > ls.txt
